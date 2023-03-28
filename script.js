@@ -28,14 +28,6 @@ function log(){
 window.location.assign("loginpage.html");
     }
 }
-//pay to payment page
-function pay(){
-    var Pay = document.getElementById("cart").value;
-
-    if(Pay == Pay){
-window.location.assign("cartPage.html");
-    }
-}
 //add to cart
 function Addcart(){
 
